@@ -12,4 +12,4 @@ XBSC-Group: DisplayCore
 XBSC-Subgroup: Fonts
 Depends: libdisplaycore-core
 Provides: OneSlot.h
-Description: OneSlot font for DisplayCore
+Description: OneSlot
